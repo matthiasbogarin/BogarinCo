@@ -4,17 +4,14 @@ import './App.css';
 
 function App() {
 
-
-
   return (
     <div className="App">
     
-      {/* <Navbar />*/}
-
-      {/*<Content /> */}
+        <p>Hello, Hello!</p>
     
     </div>
   );
+  
 }
 
 export default App;
