@@ -5,6 +5,7 @@ import { Files } from "./views/Files";
 import { Manage } from "./views/Manage";
 import { Tools } from "./views/Tools";
 import { Route, Switch, Redirect } from "react-router-dom";
+import React from "react";
 
 export const Routes = () => {
     return (
