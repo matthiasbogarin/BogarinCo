@@ -184,6 +184,8 @@ const EnhancedTable = ({
     setData(newData)
   }
 
+
+  console.log("globalFilter: ", globalFilter);
   // Render the UI for your table
   return (
     <TableContainer>
